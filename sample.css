@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background: url(background1.png);
+}
+h1 {
+    color: transparent;
+    font-size: 10rem;
+    background: url(background.jpg);
+    background-clip: text;
+}

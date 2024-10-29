@@ -1,0 +1,33 @@
+body
+{
+    padding: 50px;
+    background: url(form.jpg);
+}
+
+.container1 h1
+{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    background: url(background.jpg);
+    text-shadow: (white);
+    background-clip: text;
+}
+
+.container
+{
+    max-width: 600px;
+    color: white;
+    background-color: #00000093;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: black 0px 7px 29px 0px;
+}
+
+.form-group
+{
+    margin-bottom: 30px;
+}
+.form-btn input {
+    background-color: rgb(70, 55, 6);
+}

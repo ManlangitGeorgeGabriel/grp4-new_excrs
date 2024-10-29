@@ -1,0 +1,31 @@
+body
+{
+    padding: 50px;
+    background: url(beans.avif);
+}
+
+.container1 h1
+{
+    text-align: center;
+    color: transparent;
+    font-size: 60px;
+    background: url(background.jpg);
+    text-shadow: white;
+    background-clip: text;
+}
+
+.container
+{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgb(241 226 255 / 20%) 0px 7px 29px 0px;
+}
+
+.form-group
+{
+    margin-bottom: 30px;
+}
+.form-btn input {
+    background-color: rgb(194, 156, 33);
+}
